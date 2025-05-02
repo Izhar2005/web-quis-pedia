@@ -30,7 +30,7 @@ Ikuti langkah-langkah berikut untuk menjalankan Pedia Quiz di lokal:
 1. **Clone atau Unduh Repositori**:
    - Unduh file proyek (atau clone jika menggunakan Git):
      ```bash
-     git clone <URL-repositori>
+     git clone https://github.com/Izhar2005/web-quis-pedia
      ```
    - File yang dibutuhkan: `index.html`, `styles.css`, `script.js`.
 
