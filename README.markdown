@@ -94,6 +94,6 @@ Ingin berkontribusi? Fork repositori ini, tambahkan fitur atau perbaikan, dan bu
 Proyek ini bebas digunakan untuk tujuan edukasi dan non-komersial. Silakan modifikasi dan bagikan dengan kredit ke pembuat asli.
 
 ## 📬 Kontak
-Punya pertanyaan atau saran? Hubungi saya di [email@example.com] atau buka issue di repositori.
+Punya pertanyaan atau saran? Hubungi saya di izhardulgom@gmail.com atau buka issue di repositori.
 
 Selamat bermain dan belajar dengan Pedia Quiz! 🌍✨
